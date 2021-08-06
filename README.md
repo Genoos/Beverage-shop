@@ -1,2 +1,2 @@
 # Beverage-shop
-Flutter app for ordering beverages
+Flutter shop app for ordering beverages
